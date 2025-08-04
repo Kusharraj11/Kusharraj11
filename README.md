@@ -1,6 +1,6 @@
  ## Hey! I’m Kushar Raj Kashyap.
 
-👨‍🎓 Currently doing my MCA at Haldia Institute of Technology.<br/>
+👨‍🎓 Recently passed out from Haldia Institute of Technology.<br/>
 🧠 coding, learning new tech stuff, and building cool things.<br/>
 🏫 Did my BCA from BIT Mesra (yeah, I liked that too).<br/>
 👀 I’m super curious, love trying out new tools, and always up for a challenge.<br/>
