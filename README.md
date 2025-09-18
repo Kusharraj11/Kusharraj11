@@ -1,12 +1,18 @@
  ## Hey! I’m Kushar Raj Kashyap.
 
-👨‍🎓 Recently passed out from Haldia Institute of Technology.<br/>
-🧠 coding, learning new tech stuff, and building cool things.<br/>
-🏫 Did my BCA from BIT Mesra (yeah, I liked that too).<br/>
-👀 I’m super curious, love trying out new tools, and always up for a challenge.<br/>
-👨‍💻Sometimes I design stuff — logos, posters, web layouts — just for fun.<br/>
-🍃 Big fan of simple, clean code and anything creative.<br/>
-💫 Still figuring things out, but excited about the journey!<br/>
+👨‍🎓 MCA Graduate from Haldia Institute of Technology<br/>
+🧠 Passionate about coding, DevOps practices, cloud computing, and building scalable solutions<br/>
+🏫 Completed my BCA from BIT Mesra, which gave me a strong foundation in computer science<br/>
+💼 Currently working as an AI-DevOps Engineer Intern at Orbiqe Technologies, Noida, where I am:<br/>
+  🔹 Developing and optimizing CI/CD pipelines
+  🔹 Working with Docker, Kubernetes, Jenkins, Git for automation
+  🔹 Exploring cloud deployment and configuration management with Ansible, Puppet, Chef
+  🔹 Learning to integrate AI & Big Data analytics concepts into DevOps workflows
+
+👀 Curious by nature, I’m always exploring new technologies and tools<br/>
+👨‍💻 I also enjoy switching to the creative side — designing logos, posters, and web layouts just for fun<br/>
+🍃 A believer in clean, efficient code and elegant problem-solving<br/>
+💫 Still figuring things out — but excited to grow and contribute to real-world tech projects! 🚀<br/>
 
 
 ## 🌐 Socials:
