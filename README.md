@@ -4,10 +4,10 @@
 🧠 Passionate about coding, DevOps practices, cloud computing, and building scalable solutions<br/>
 🏫 Completed my BCA from BIT Mesra, which gave me a strong foundation in computer science<br/>
 💼 Currently working as an AI-DevOps Engineer Intern at Orbiqe Technologies, Noida, where I am:<br/>
-  🔹 Developing and optimizing CI/CD pipelines
-  🔹 Working with Docker, Kubernetes, Jenkins, Git for automation
-  🔹 Exploring cloud deployment and configuration management with Ansible, Puppet, Chef
-  🔹 Learning to integrate AI & Big Data analytics concepts into DevOps workflows
+  🔹 Developing and optimizing CI/CD pipelines<br/>
+  🔹 Working with Docker, Kubernetes, Jenkins, Git for automation<br/>
+  🔹 Exploring cloud deployment and configuration management with Ansible, Puppet, Chef<br/>
+  🔹 Learning to integrate AI & Big Data analytics concepts into DevOps workflows<br/>
 
 👀 Curious by nature, I’m always exploring new technologies and tools<br/>
 👨‍💻 I also enjoy switching to the creative side — designing logos, posters, and web layouts just for fun<br/>
