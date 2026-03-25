@@ -1,12 +1,14 @@
  ## Hey! I’m Kushar Raj Kashyap.
 
-👨‍🎓 MCA Graduate from Haldia Institute of Technology<br/>
-🧠 Passionate about coding, DevOps practices, cloud computing, and building scalable solutions<br/>
-🏫 Completed my BCA from BIT Mesra, which gave me a strong foundation in computer science<br/>
-👀 Curious by nature, I’m always exploring new technologies and tools<br/>
-👨‍💻 I also enjoy switching to the creative side — designing logos, posters, and web layouts just for fun<br/>
-🍃 A believer in clean, efficient code and elegant problem-solving<br/>
-💫 Still figuring things out — but excited to grow and contribute to real-world tech projects! 🚀<br/>
+Hey, I'm Kushar 👋
+
+I'm an MCA graduate who loves building things — whether that's a game, a CI/CD pipeline, or a clean UI. Right now I'm working as a **Game Developer Trainee at BR Softech Pvt. Ltd.** in Jaipur, which honestly feels like a dream — I get to spend my days thinking about game mechanics and writing JavaScript that actually does something fun.
+
+Before this, I spent six months at **Orbiqe Technologies** as an AI-DevOps Engineer, where I got deep into Docker, Kubernetes, Terraform, and all things automation. That experience taught me a lot about how software actually runs in the real world — not just how it's written.
+
+I did my MCA from **Haldia Institute of Technology** (CGPA: 8.11) and my BCA from **BIT Mesra** (CGPA: 8.63). Both gave me a solid foundation, but honestly, most of what I know I learned by building things and breaking them.
+
+Outside of work, I'm into anime (currently One Piece 🏴‍☠️), design, and anything that sits at the intersection of code and creativity. I believe good software should feel good — not just work well.
 
 
 ## 🌐 Socials:
