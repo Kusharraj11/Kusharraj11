@@ -19,7 +19,7 @@ I’m currently based in **Bangalore, India**, and open to opportunities in **ga
 - **AI & ML:** Supervised learning, classification models, Generative AI, Ollama, Jupyter
 - **Testing & Tools:** Postman, Selenium, JMeter, Git, GitLab, VS Code, Notion
 - **Design:** Adobe Creative Suite, Canva, UI/UX principles
-- 
+  
 ## Education
 
 - **MCA**, Haldia Institute of Technology — CGPA: **8.11**
