@@ -1,17 +1,52 @@
- ## Hey! I’m Kushar Raj Kashyap.
+# Hey, I’m Kushar Raj Kashyap 👋
 
-Hey, I'm Kushar 👋
+**Software Developer · HTML5 / Game Developer · DevOps Engineer**
 
-I'm an MCA graduate who loves building things — whether that's a game, a CI/CD pipeline, or a clean UI. Right now I'm working as a **Game Developer Trainee at BR Softech Pvt. Ltd.** in Jaipur, which honestly feels like a dream — I get to spend my days thinking about game mechanics and writing JavaScript that actually does something fun.
+I’m an MCA graduate and software developer who enjoys turning ideas into useful, interactive products. My work spans **Phaser 3 game development, JavaScript, CI/CD automation, cloud infrastructure, AI-assisted engineering, and clean UI design**.
 
-Before this, I spent six months at **Orbiqe Technologies** as an AI-DevOps Engineer, where I got deep into Docker, Kubernetes, Terraform, and all things automation. That experience taught me a lot about how software actually runs in the real world — not just how it's written.
+I recently completed an **HTML5 Trainee internship at BR Softech Pvt. Ltd.** in Jaipur, where I built gameplay systems with Phaser 3 and JavaScript, including physics, collision detection, state machines, scoring, and multi-level progression. I also shipped **Tokyo Can Sort**, a 20-level puzzle game with GitHub Actions-based CI/CD.
 
-I did my MCA from **Haldia Institute of Technology** (CGPA: 8.11) and my BCA from **BIT Mesra** (CGPA: 8.63). Both gave me a solid foundation, but honestly, most of what I know I learned by building things and breaking them.
+Before that, I worked with **Orbiqe Technologies** as an **AI-DevOps Engineer Trainee** through an NSDC / NSQF Level 5 program. I built and worked with Jenkins, Ansible, Docker, Terraform, AWS, Linux, and end-to-end deployment workflows.
 
-Outside of work, I'm into anime (currently One Piece 🏴‍☠️), design, and anything that sits at the intersection of code and creativity. I believe good software should feel good — not just work well.
+I’m currently based in **Bangalore, India**, and open to opportunities in **game development, web development, DevOps, design, freelance projects, and meaningful collaborations**.
 
+## What I Work With
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/iamkrk11) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kushar-raj-kashyap) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@https://www.youtube.com/channel/UCHm7jxW533dBOwrGGkX0OpA) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kusharraj11@gmail.com) 
+- **Languages:** JavaScript, Python, SQL, C
+- **Frontend & Game Development:** Phaser 3, React, HTML5 Canvas, CSS3, Webpack, DOM APIs
+- **Backend & APIs:** FastAPI, Node.js, REST API design
+- **DevOps & Cloud:** Docker, Terraform, Jenkins, Ansible, AWS, GitHub Actions, Linux, CI/CD
+- **AI & ML:** Supervised learning, classification models, Generative AI, Ollama, Jupyter
+- **Testing & Tools:** Postman, Selenium, JMeter, Git, GitLab, VS Code, Notion
+- **Design:** Adobe Creative Suite, Canva, UI/UX principles
 
+## Selected Projects
 
+- **Tokyo Can Sort** — A 20-level colour-sorting puzzle game built with Phaser 3 and JavaScript, with mobile-friendly input and GitHub Actions deployment.
+- **Tetris** — Browser-based Tetris built with HTML5, CSS3, and vanilla JavaScript.
+- **Disaster Recovery Advisor** — React and FastAPI application using supervised learning and a local Ollama model to provide disaster-risk insights and recovery guidance.
+- **HMRS — HR Management System** — Human Resource Management System developed during my Orbiqe Technologies training.
+- **DevOps Labs** — Practical work involving multi-stage Docker builds, Jenkins pipelines, SonarQube, microservices, Git workflows, and infrastructure automation.
+
+## Education
+
+- **MCA**, Haldia Institute of Technology — CGPA: **8.11**
+- **BCA**, BIT Mesra — CGPA: **8.63**
+- **AI — DevOps Engineer**, NSQF Level 5 — NSDC / Skill India / Government of India
+
+## A Little More About Me
+
+Outside of work, I enjoy anime, story-heavy games, samurai culture, and design. I’m currently watching **One Piece 🏴‍☠️**, and I believe good software should feel good — not just work well.
+
+> Clean code and thoughtful design are two sides of the same craft.
+
+## Find Me Online
+
+- 🌐 **Portfolio:** [iamkrk.netlify.app/pro.html](https://iamkrk.netlify.app/pro.html)
+- 💼 **LinkedIn:** [Kushar Raj Kashyap](https://www.linkedin.com/in/kushar-raj-kashyap)
+- 📧 **Email:** [kusharraj11@gmail.com](mailto:kusharraj11@gmail.com)
+- 📸 **Instagram:** [@iamkrk11](https://instagram.com/iamkrk11)
+
+---
+
+_Open to work in game development, web development, DevOps, design, and interesting collaborations._
