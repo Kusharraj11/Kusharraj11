@@ -19,15 +19,7 @@ I’m currently based in **Bangalore, India**, and open to opportunities in **ga
 - **AI & ML:** Supervised learning, classification models, Generative AI, Ollama, Jupyter
 - **Testing & Tools:** Postman, Selenium, JMeter, Git, GitLab, VS Code, Notion
 - **Design:** Adobe Creative Suite, Canva, UI/UX principles
-
-## Selected Projects
-
-- **Tokyo Can Sort** — A 20-level colour-sorting puzzle game built with Phaser 3 and JavaScript, with mobile-friendly input and GitHub Actions deployment.
-- **Tetris** — Browser-based Tetris built with HTML5, CSS3, and vanilla JavaScript.
-- **Disaster Recovery Advisor** — React and FastAPI application using supervised learning and a local Ollama model to provide disaster-risk insights and recovery guidance.
-- **HMRS — HR Management System** — Human Resource Management System developed during my Orbiqe Technologies training.
-- **DevOps Labs** — Practical work involving multi-stage Docker builds, Jenkins pipelines, SonarQube, microservices, Git workflows, and infrastructure automation.
-
+- 
 ## Education
 
 - **MCA**, Haldia Institute of Technology — CGPA: **8.11**
