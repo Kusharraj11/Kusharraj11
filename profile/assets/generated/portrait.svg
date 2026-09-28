@@ -1,9 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="260" height="150" role="img" aria-label="Animated ASCII portrait placeholder">
-<style>text{font-family:'ProfileEmbedded','JetBrains Mono',monospace;font-size:18px}</style>
-<rect width="260" height="150" rx="14" fill="#0d1117" stroke="#30363d"/>
-<g opacity="1"><animate attributeName="opacity" values="1;0;1" dur="1.6s" repeatCount="indefinite"/><text x="34" y="68" fill="#58a6ff">/\_/\\</text>
-<text x="34" y="92" fill="#58a6ff">( o.o )</text>
-<text x="34" y="116" fill="#58a6ff">> ^ <</text></g><g opacity="0"><animate attributeName="opacity" values="0;1;0" dur="1.6s" repeatCount="indefinite"/><text x="34" y="68" fill="#58a6ff">/\_/\\</text>
-<text x="34" y="92" fill="#58a6ff">( o.o )</text>
-<text x="34" y="116" fill="#58a6ff">> ^ <</text></g>
-</svg>
