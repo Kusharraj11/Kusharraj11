@@ -1,44 +1,52 @@
-# Hey, I’m Kushar Raj Kashyap 👋
+# Hey, I'm Kushar Raj Kashyap 👋
 
-**Software Developer · HTML5 / Game Developer · DevOps Engineer**
+**Software Developer · Python & JavaScript · Game UI · GenAI**
 
-I’m an MCA graduate and software developer who enjoys turning ideas into useful, interactive products. My work spans **Phaser 3 game development, JavaScript, CI/CD automation, cloud infrastructure, AI-assisted engineering, and clean UI design**.
+MCA graduate in Bengaluru. I build websites, game UIs, backend APIs and GenAI services, and I sketch the workflow before I write the code.
 
-I recently completed an **HTML5 Trainee internship at BR Softech Pvt. Ltd.** in Jaipur, where I built gameplay systems with Phaser 3 and JavaScript, including physics, collision detection, state machines, scoring, and multi-level progression. I also shipped **Tokyo Can Sort**, a 20-level puzzle game with GitHub Actions-based CI/CD.
+Most recently I was an **HTML5 Developer Trainee at BR Softech** (Jaipur), building Phaser 3 gameplay systems (physics, collision, state machines, scoring, multi-level progression) and shipping **Tokyo Can Sort**, a 20-level puzzle game auto-deployed with GitHub Actions.
 
-Before that, I worked with **Orbiqe Technologies** as an **AI-DevOps Engineer Trainee** through an NSDC / NSQF Level 5 program. I built and worked with Jenkins, Ansible, Docker, Terraform, AWS, Linux, and end-to-end deployment workflows.
+Before that, I completed the NSDC **AI-DevOps Engineer** program (NSQF Level 5) with Orbiqe Technologies: Jenkins, Ansible, Docker, Terraform, AWS, Linux, and an HR management system (HMRS) delivered through the full DevOps lifecycle.
 
-I’m currently based in **Bangalore, India**, and open to opportunities in **game development, web development, DevOps, design, freelance projects, and meaningful collaborations**.
+Now I'm building GenAI projects and studying DSA, React and backend/REST APIs with Sharpener.
+
+## Featured Projects
+
+- **Recall AI**: long-term memory for AI agents (Python, FastAPI, Gemini, Mem0, Qdrant)
+- **Tokyo Can Sort**: 20-level HTML5 puzzle game (Phaser 3, JavaScript, Webpack, GitHub Actions)
+- **Disaster Recovery Advisor**: Random Forest model for disaster type/severity and recovery advice (Python, scikit-learn, pandas, SQLite)
+- **Tetris**: vanilla JavaScript, zero dependencies
+- **HMRS**: HR management system through CI/CD (TypeScript, Docker)
+
+Each one has a step-by-step "how I built it" on my portfolio.
 
 ## What I Work With
 
-- **Languages:** JavaScript, Python, SQL, C
-- **Frontend & Game Development:** Phaser 3, React, HTML5 Canvas, CSS3, Webpack, DOM APIs
-- **Backend & APIs:** FastAPI, Node.js, REST API design
-- **DevOps & Cloud:** Docker, Terraform, Jenkins, Ansible, AWS, GitHub Actions, Linux, CI/CD
-- **AI & ML:** Supervised learning, classification models, Generative AI, Ollama, Jupyter
-- **Testing & Tools:** Postman, Selenium, JMeter, Git, GitLab, VS Code, Notion
+- **Languages:** Python, JavaScript (ES6+), SQL, C
+- **Web & Game UI:** Phaser 3, HTML5 Canvas, CSS3, Webpack, DOM APIs (learning React)
+- **Backend & APIs:** FastAPI, Node.js, REST API design, SQLite, pytest
+- **GenAI & ML:** Gemini API, RAG, Mem0, Qdrant, embeddings, scikit-learn, pandas, Jupyter
+- **DevOps & Cloud:** Docker, GitHub Actions, Jenkins, Ansible, Terraform, AWS, Linux, CI/CD
+- **Testing & Tools:** Postman, Selenium, JMeter, Git, GitLab, VS Code, Claude Code (CLI)
 - **Design:** Adobe Creative Suite, Canva, UI/UX principles
-  
+
+## How I Work
+
+Diagram first, then code. I map the workflow on a canvas, break it into small steps and build one unit at a time, with a clean commit after each. I use Claude Code as a tool, not a crutch: I plan, review and own every change.
+
 ## Education
 
-- **MCA**, Haldia Institute of Technology — CGPA: **8.11**
-- **BCA**, BIT Mesra — CGPA: **8.63**
-- **AI — DevOps Engineer**, NSQF Level 5 — NSDC / Skill India / Government of India
-
-## A Little More About Me
-
-Outside of work, I enjoy anime, story-heavy games, samurai culture, and design. I’m currently watching **One Piece 🏴‍☠️**, and I believe good software should feel good — not just work well.
-
-> Clean code and thoughtful design are two sides of the same craft.
+- **MCA**, Haldia Institute of Technology: CGPA 8.11
+- **BCA**, BIT Mesra: CGPA 8.63
+- **AI-DevOps Engineer**, NSQF Level 5: NSDC / Skill India
 
 ## Find Me Online
 
-- 🌐 **Portfolio:** [iamkrk.netlify.app/pro.html](https://iamkrk.netlify.app/pro.html)
+- 🌐 **Portfolio:** [iamkrk.netlify.app](https://iamkrk.netlify.app)
 - 💼 **LinkedIn:** [Kushar Raj Kashyap](https://www.linkedin.com/in/kushar-raj-kashyap)
 - 📧 **Email:** [kusharraj11@gmail.com](mailto:kusharraj11@gmail.com)
 - 📸 **Instagram:** [@iamkrk11](https://instagram.com/iamkrk11)
 
 ---
 
-_Open to work in game development, web development, DevOps, design, and interesting collaborations._
+_Open to full-time roles: Software, Python or GenAI developer. Bengaluru or remote._
